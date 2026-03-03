@@ -3,12 +3,6 @@
 # 🚀 DevStore - Modern E-Commerce UI
 
 Una experiencia de compra fluida, rápida y moderna construida con **React**, **TypeScript** y **Tailwind CSS**. Este proyecto demuestra el manejo de estados globales complejos, persistencia de datos y una interfaz de usuario altamente interactiva.
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443333?style=for-the-badge)
-
 ---
 
 ## ✨ Características Principales
@@ -51,4 +45,4 @@ Una experiencia de compra fluida, rápida y moderna construida con **React**, **
 
 ---
 
-Desarrollado con ❤️ por **[TU NOMBRE]**
+Desarrollado por **José Rodríguez**
